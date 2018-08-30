@@ -1,0 +1,24 @@
+{
+  "name": "synflood",
+  "version": "1.0.1",
+  "description": "A Node.js SynFlood Script",
+  "main": "syn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "synflood": "syn.js"
+  },
+  "keywords": [
+    "flood",
+    "synflood",
+    "rawsocket",
+    "syn",
+    "tcp"
+  ],
+  "dependencies": {
+    "raw-socket": "^1.6.2"
+  },
+  "author": "zhy.js",
+  "license": "ISC"
+}
